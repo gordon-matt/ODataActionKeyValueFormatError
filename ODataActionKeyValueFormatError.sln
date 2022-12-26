@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODataActionKeyValueFormatError", "ODataActionKeyValueFormatError\ODataActionKeyValueFormatError.csproj", "{29219C88-FBF1-45AD-8D85-0BE939F93DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29219C88-FBF1-45AD-8D85-0BE939F93DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29219C88-FBF1-45AD-8D85-0BE939F93DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29219C88-FBF1-45AD-8D85-0BE939F93DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29219C88-FBF1-45AD-8D85-0BE939F93DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47548102-000D-4D8E-9E0D-03A4C8343252}
+	EndGlobalSection
+EndGlobal
